@@ -1,2 +1,2 @@
-# Maratang_Kiosk
-2020 Python Project
+# 마라탕탕
+마라탕 
